@@ -1,2 +1,2 @@
 # OIBSIP
-I developed this landing page using HTML and CSS. 
+OASIS LEVEL 1 TASK
